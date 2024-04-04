@@ -1,0 +1,19 @@
+#review-container {
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+}
+
+#new-review-btn {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#new-review-btn:hover {
+    background-color: #45a049;
+}
+
